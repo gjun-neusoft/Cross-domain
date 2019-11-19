@@ -1,4 +1,4 @@
-# Cross-domain
+# 几种前端跨域解决方案
 跨域：浏览器同源策略
 
 一、JSONP(Json With Padding)，前端+后端
